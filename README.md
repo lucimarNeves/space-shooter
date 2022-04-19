@@ -16,5 +16,6 @@ O projeto é uma aplicação simples de um jogo utilizando JavaScript, um jogo d
 
 ![Web 3](https://github.com/lucimarNeves/space-shooter/blob/main/assets/gameover.png)
 
+![Web 3](https://github.com/lucimarNeves/space-shooter/blob/main/tiro.png)
 
 
